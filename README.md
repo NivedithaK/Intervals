@@ -15,8 +15,7 @@ will increase by 1 point. If you answered incorrectly, the app will tell you the
 <p align="center"><img src="https://i.imgur.com/i95y5qJ.png" alt="Incorrect answer"
 	title="Incorrect answer" width="225" height="400" /></p> 
   
-<p align="center"><img src="https://i.imgur.com/ltnkUvs.png" alt="Gameplay"
-	title="Gameplay" width="225" height="400" /></p> 
+[Click here to view a playthrough example.](https://imgur.com/ltnkUvs)
   
 # Next steps
 
