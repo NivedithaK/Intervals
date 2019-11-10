@@ -9,14 +9,14 @@ will increase by 1 point. If you answered incorrectly, the app will tell you the
 
 # Screenshots
 
-<p align="center"><img src="https://imgur.com/2beWLdN" alt="Icon"
+<p align="center"><img src="https://i.imgur.com/2beWLdN.png" alt="Icon"
 	title="Icon" width="100" height="100" /></p> 
   
-<p align="center"><img src="https://imgur.com/i95y5qJ" alt="Incorrect answer"
-	title="Incorrect answer" width="500" height="300" /></p> 
+<p align="center"><img src="https://i.imgur.com/i95y5qJ.png" alt="Incorrect answer"
+	title="Incorrect answer" width="225" height="400" /></p> 
   
-<p align="center"><img src="https://imgur.com/ltnkUvs" alt="Gameplay"
-	title="Gameplay" width="500" height="300" /></p> 
+<p align="center"><img src="https://i.imgur.com/ltnkUvs.png" alt="Gameplay"
+	title="Gameplay" width="225" height="400" /></p> 
   
 # Next steps
 
